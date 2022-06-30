@@ -1,0 +1,6 @@
+C:\Users\jesus\Documents\VISUAL STUDIO\Cognos\Entidades\bin\Debug\Entidades.dll
+C:\Users\jesus\Documents\VISUAL STUDIO\Cognos\Entidades\bin\Debug\Entidades.pdb
+C:\Users\jesus\Documents\VISUAL STUDIO\Cognos\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\jesus\Documents\VISUAL STUDIO\Cognos\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\jesus\Documents\VISUAL STUDIO\Cognos\Entidades\obj\Debug\Entidades.dll
+C:\Users\jesus\Documents\VISUAL STUDIO\Cognos\Entidades\obj\Debug\Entidades.pdb

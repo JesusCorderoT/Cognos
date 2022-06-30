@@ -1,0 +1,11 @@
+C:\Users\jesus\Documents\VISUAL STUDIO\Cognos\Negocio\bin\Debug\Negocio.dll
+C:\Users\jesus\Documents\VISUAL STUDIO\Cognos\Negocio\bin\Debug\Negocio.pdb
+C:\Users\jesus\Documents\VISUAL STUDIO\Cognos\Negocio\bin\Debug\Datos.dll
+C:\Users\jesus\Documents\VISUAL STUDIO\Cognos\Negocio\bin\Debug\Entidades.dll
+C:\Users\jesus\Documents\VISUAL STUDIO\Cognos\Negocio\bin\Debug\Datos.pdb
+C:\Users\jesus\Documents\VISUAL STUDIO\Cognos\Negocio\bin\Debug\Entidades.pdb
+C:\Users\jesus\Documents\VISUAL STUDIO\Cognos\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\jesus\Documents\VISUAL STUDIO\Cognos\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\jesus\Documents\VISUAL STUDIO\Cognos\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\jesus\Documents\VISUAL STUDIO\Cognos\Negocio\obj\Debug\Negocio.dll
+C:\Users\jesus\Documents\VISUAL STUDIO\Cognos\Negocio\obj\Debug\Negocio.pdb
